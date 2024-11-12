@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<mocktestcase>
+   <files/>
+   <programs/>
+   <procedures>
+      <procedure objectName="PRCMOCKS1" objectType="*SRVPGM" procedureName="ADD" prototypeName="ADD" rrnSequence="41" sourceFile="QRPGLESRC" sourceLibrary="IUNDEMO1" sourceMember="PRCMOCKM1" sourceSequence="0.0"/>
+   </procedures>
+   <mockedFiles/>
+   <mockedPrograms/>
+   <mockedProcedures newMemberName="MOCKMDL">
+      <ADD_41/>
+      <compileCommands>
+         <command><![CDATA[CRTRPGMOD MODULE(QTEMP/PRCMOCKM1) SRCFILE(QTEMP/QMOCKSRC) DBGVIEW(*ALL)]]></command>
+         <command><![CDATA[CRTRPGMOD MODULE(QTEMP/MOCKMDL) SRCFILE(QTEMP/QMOCKSRC) DBGVIEW(*ALL)]]></command>
+         <command><![CDATA[CRTSRVPGM SRVPGM(QTEMP/PRCMOCKS1) MODULE( QTEMP/MOCKMDL QTEMP/PRCMOCKM1 IUNDEMO1/PRCMOCKM2) EXPORT(*ALL)]]></command>
+      </compileCommands><![CDATA[mockTestCases/iunitrep1.repository.imported.tests/PRCMOCKS1_SRVPGM_PRCMOCKADD_PRC\]]></mockedProcedures>
+</mocktestcase>

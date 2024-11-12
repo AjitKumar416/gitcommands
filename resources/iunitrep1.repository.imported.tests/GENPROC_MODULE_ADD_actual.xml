@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<testcase>
+   <actualValue_0>
+      <variableValue/>
+      <actualValue><![CDATA[{"INPUT":{"P_VAR1":12,"P_VAR2":12,"P_RESULT":24}}]]></actualValue>
+      <codeCovReportPath>/home/ArcadiUnit/IUNITREP1/Joblogs/GENPROC_MODULE_ADD0.cczip</codeCovReportPath>
+   </actualValue_0>
+</testcase>
