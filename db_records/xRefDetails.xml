@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<objects>
+   <object name="GENPROC" type="*MODULE">
+      <package name="iunitrep1.repository.imported.tests">
+         <testcase name="GENPROC_MODULE_ADD"/>
+         <testcase name="GENPROC_MODULE_MULTIPLY"/>
+         <testcase name="GENPROC_MODULE_MULTIPLY_1"/>
+      </package>
+   </object>
+   <object name="CLPGM1R" type="*PGM">
+      <package name="iunitrep1.repository.imported.tests">
+         <testcase name="CLPGM1R_PGM_MAIN"/>
+         <testcase name="CLPGM1R_PGM_MAIN_2"/>
+         <testcase name="CLPGM1R_PGM_MAIN_3"/>
+      </package>
+   </object>
+   <object name="DBMOCK" type="*PGM">
+      <package name="iunitrep1.repository.imported.tests">
+         <testcase name="DBMOCK_PGM_MAIN"/>
+      </package>
+   </object>
+   <object name="PRCMOCKS1" type="*SRVPGM">
+      <package name="iunitrep1.repository.imported.tests">
+         <testcase name="PRCMOCKS1_SRVPGM_PRCMOCKADD"/>
+      </package>
+   </object>
+</objects>

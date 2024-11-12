@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<testcase>
+   <actualValue_0>
+      <variableValue/>
+      <actualValue><![CDATA[{"INPUT":{"P_VAR1":5,"P_VAR2":5,"P_RESULT":999}}]]></actualValue>
+      <codeCovReportPath>/home/ArcadiUnit/IUNITREP1/Joblogs/PRCMOCKS1_SRVPGM_PRCMOCKADD0.cczip</codeCovReportPath>
+   </actualValue_0>
+</testcase>

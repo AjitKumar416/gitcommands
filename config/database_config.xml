@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<configuration>
+   <setup connectArcad="true" useRepository="true"/>
+   <url>http://10.5.6.213:5255</url>
+   <username>nnigam</username>
+   <password>c72d8a103706d4d024b6ac302fc248653867c2448770</password>
+   <servername>10.5.11.40</servername>
+   <instance/>
+   <codecoveragepath>/home/ArcadiUnit/IUNITREP1/Joblogs/</codecoveragepath>
+   <repository aspname="*SYSTEM" description="" identifier="9" initializationdate="2024-11-05" initialized="true" lastsynchronizationdate="2024-11-05-10.27.36.226000" name="IUNITREP1" version="*NONE" versionselected="false">
+      <libraries>
+         <objectlibraries>
+            <objectlibrary name="IUNDEMO1" order="1"/>
+         </objectlibraries>
+         <sourcelibraries>
+            <sourcelibrary name="IUNDEMO1" order="1"/>
+         </sourcelibraries>
+         <executionlibraries/>
+      </libraries>
+   </repository>
+</configuration>

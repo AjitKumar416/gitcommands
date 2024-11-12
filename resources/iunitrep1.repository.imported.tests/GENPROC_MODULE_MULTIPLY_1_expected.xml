@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+<testcase>
+   <expectedValue_0><![CDATA[{"INPUT":{"P_VAR1":22,"P_VAR2":33},"AIUN_OUTPUT":{"aiun_RtnxxVar":0}}]]></expectedValue_0>
+</testcase>
